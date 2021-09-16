@@ -46,7 +46,6 @@ His PhD topic is mainly focused on domain adaptation for multi-modal medical ima
 
 4.	Chenhao Pei , Fuping Wu, Liqin Huang, Xiahai Zhuang. Disentangle domain features for cross-modality cardiac image segmentation. Medical Image Analysis, vol 71, 2021, 102078, 1-12.
 
-
 #### Conference Papers
 
 1.	Fuping Wu, Lei Li, Guang Yang, Tom Wong, Raad Mohiaddin, David Firmin, Jennifer Keegan, Lingchao Xu, Xiahai Zhuang: Atrial fibrosis quantification based on maximum likelihood estimator of multivariate images. MICCAI, 604-612, 2018

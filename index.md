@@ -34,7 +34,6 @@ His PhD topic is mainly focused on domain adaptation for multi-modal medical ima
 
 4.	2008/09 -2012/07	Bachelor, Dept. Medical Laboratory Science in Tongji Medical College, Huazhong University of Science and Technology
 
-
 ### Publication
 
 #### Journal Papers
